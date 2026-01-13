@@ -1,0 +1,12 @@
+name = "cf-wh"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+account_id = "e17328c6b71622a68bca86d4a1b1167a"
+
+[vars]
+FORWARD_URL = "https://wdev.fundflows.net"
+
+[[kv_namespaces]]
+binding = "WEBHOOK_EVENTS"
+id = "908e08a8615c4c86b840c5ac68fa28f8"
+preview_id = "5bbebe3b735f4f7d90fb0c8993ac5ca7"
